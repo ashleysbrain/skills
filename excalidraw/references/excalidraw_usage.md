@@ -1,0 +1,1 @@
+Lesson: Use Excalidraw to create hand-drawn style diagrams for architecture or fleet maps when a more organic, human-centered visual is desired, aligning with Da Vinci's sketching approach.

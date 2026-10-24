@@ -1,7 +1,7 @@
 ---
 name: adhd-choice-discipline
 description: Minimize decision load on ADHD users by defaulting to one strong proposal with clear rationale instead of offering multi-option menus. Use when spawning agents, setting up workflows, or making any configuration choice during a task.
-tags: [adhd, neurodivergent, communication, decision-fatigue, ashley, user-preference]
+tags: [adhd, neurodivergent, communication, decision-fatigue, principal, user-preference]
 version: 1.0
 ---
 
@@ -151,7 +151,7 @@ Four layers of decisions when the user asked for ONE agent. User response:
 **What I should have done:**
 
 > "Spawning CROWN — Personal Home Grow Creative Brand Specialist. Defaults:
-> - Separate agent in ashley-personal world, hard-firewalled from commercial ENTOURAGE (matches your firewall discipline across worlds)
+> - Separate agent in principal-personal world, hard-firewalled from commercial ENTOURAGE (matches your firewall discipline across worlds)
 > - Callsign CROWN (botanical, evokes flowering apex, non-human)
 > - Photos handed per task until you connect iCloud (doesn't block spawn)
 > - Gemini 2.5 Pro model per your no-Claude cannabis directive

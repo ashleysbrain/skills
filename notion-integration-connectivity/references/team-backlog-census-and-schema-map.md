@@ -16,7 +16,7 @@ Adopt as the canonical intake-mirror shape.
 
 ## Intake posture (review-first)
 - Read-only until principal releases: GET-only against Notion; mirror JSON to disk; dissect via gated panel; mint to `~/your-org/your-stack/stores/task-ledger.db` only after explicit go.
-- Never write or delete team content in Notion. Nandita's (Nanditha Murthy's) rows are immutable — additive mirrors only.
+- Never write or delete team content in Notion. a teammate's (Nanditha Murthy's) rows are immutable — additive mirrors only.
 - ntn CLI: search needs explicit `-X POST` (bare path = 400 invalid_request_url).
 
 ## Where the loop design lives
