@@ -11,7 +11,7 @@ verified via /health endpoint.
    apart, mailto param) still 429'd ~50% of queries. Retry ladder with
    exponential backoff (8s/16s/24s) recovered some, not all.
 2. **Crossref polite pool = reliable fallback.**
-   `https://api.crossref.org/works?query.bibliographic=<q>&rows=4&select=title,author,published,DOI,is-referenced-by-count,container-title&mailto=census@divinity.science`
+   `https://api.crossref.org/works?query.bibliographic=<q>&rows=4&select=title,author,published,DOI,is-referenced-by-count,container-title&mailto=<org-email>`
    — zero failures across 8 queries, 4s spacing. Select only needed
    fields to keep payloads small.
 3. **consumerfinance.gov 403s bots.** The CFPB FWB Scale primary page

@@ -23,7 +23,7 @@ The strategy under test: Project A (research hub zero-to-funded, structure-first
 - A0: Popper pre-mortem BEFORE structure (covers economics + tension rule)
 - A1 fixed: instrument gate — fiscal sponsor (grant-first) vs subsidiary/standalone LLC (equity track); SPV dropped
 - A1.5: IP assignment + parent-hub license + cap table stub + data room skeleton
-- A2.5: advisor engagement letters FIRST (Anantua physics, Alterovitz clinical — zero cost, highest leverage)
+- A2.5: advisor engagement letters FIRST (Anantua physics, the external advisor clinical — zero cost, highest leverage)
 - A3.5: preprint/technical report of the lead asset (legible to ARC/Schmidt)
 - A6: grant mechanics — SAM.gov registration (weeks of lead time, start immediately), SBIR FOA scan
 - Reorder: economics before pitch artifact; serialize A (1-2 weeks) then B

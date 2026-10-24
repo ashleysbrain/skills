@@ -22,7 +22,7 @@ then keep only phrases that describe the desired role, outcome, constraints, and
 The memo was about a QBIT health engine and explicitly asked for:
 - more than 10 agents
 - split maintenance/build coverage
-- a renamed research agent tied to Dr. Gill Alterovitz's research
+- a renamed research agent tied to Dr. Gill the external advisor's research
 - day-to-day monitoring alongside build work
 
 It did **not** contain principal-specific context.

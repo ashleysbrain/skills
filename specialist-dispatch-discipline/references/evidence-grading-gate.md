@@ -18,7 +18,7 @@ A specialist (Andreasen) generated a content backbone from banked session assets
 ## Worked examples from the 2026-08-15 falsification
 - "Our AI fleet has a vital-signs chart" — GRADE B: only the OS-OS-KPI-DASHBOARD-SPEC.md exists (a spec), no built dashboard UI served live.
 - "What 65% of agent fleets get wrong" — GRADE B: p=0.65 was Tetlock's calibrated forecast (our prediction), not a measured industry statistic.
-- "We recruited an academic bench before a product" — GRADE C: Anantua was WILLING (nothing signed), Alterovitz a prospect. False as worded.
+- "We recruited an academic bench before a product" — GRADE C: Anantua was WILLING (nothing signed), the external advisor a prospect. False as worded.
 - "We blocked our own writing engine from citing papers it never read" — GRADE A: pipeline_api.py L292 phantom-citation blocker live; runs completed same day with complete_with_quality_issues status in pipeline_runs.db.
 
 ## Why this binds the orchestrator too
@@ -35,5 +35,5 @@ Sequential rounds, never parallel. Gate each round. The plan the principal reads
 When the principal names a real-world expert as a potential advisor/partner, VERIFY the person before building strategy on them:
 - Crossref: `https://api.crossref.org/works?query.author=<Surname>` — scan titles, venues, dates; confirm the domain matches the claimed expertise
 - arXiv: `http://export.arxiv.org/api/query?search_query=all:"<Surname>"+AND+cat:<category>` — confirm active publication line
-- Record verified publications in the strategy doc (e.g. Anantua: M87* EHT charge constraints PRD 2021; Alterovitz: vcf2FHIR 2021) — this converts "principal says they're good" into "verified published, domain-matched"
+- Record verified publications in the strategy doc (e.g. Anantua: M87* EHT charge constraints PRD 2021; the external advisor: vcf2FHIR 2021) — this converts "principal says they're good" into "verified published, domain-matched"
 - web_search may be billing-blocked; Crossref/arXiv APIs work regardless (they don't route through Firecrawl)

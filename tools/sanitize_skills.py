@@ -40,7 +40,7 @@ PATH_MAP = [
     (r'\bgg-organism\b', 'agent-organism'),
     (r'\bDS [A-Z][a-z]+(?: [A-Z][a-z]+)?\b', 'the specialist engine'),
     (r':8\d{3}\b', ':port'),
-    (r'5702987845', '<chat-id>'),
+    (r'<chat-id>', '<chat-id>'),
 ]
 
 # law 3: secrets must NEVER appear; any survivor aborts the build

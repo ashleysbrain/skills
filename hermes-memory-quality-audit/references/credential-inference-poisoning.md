@@ -6,7 +6,7 @@
 |-------|-------|
 | **Wrong data** | User name recorded as "the principal Wilson" |
 | **Correct data** | User name is **Aisha** |
-| **Source of poison** | `principal.williams@divinityscience.com` in gcloud credential path |
+| **Source of poison** | `<org-email>` in gcloud credential path |
 | **Duration** | March 2026 through July 10, 2026 (~4 months) |
 | **Corrections ignored** | Multiple sessions where user said "my name is not the principal" |
 | **Root cause** | A session inferred identity from infrastructure credentials and wrote it to USER.md without verification |

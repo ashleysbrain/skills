@@ -5,11 +5,11 @@ Companion to `false-done-marks-and-spy-verification-2026-08-25.md` and
 same session that did not fit those files.
 
 ## 1. Search your own history before asking the user who someone is
-principal named "Dr. Gil"; the watch source was disabled and the principal was asked to
-confirm the full name — yet `session_search("Gil")` returned him immediately:
-Gil Alterovitz, Harvard biomedical informatics, discussed across many prior
+principal named "the external advisor"; the watch source was disabled and the principal was asked to
+confirm the full name — yet `session_search("the advisor")` returned him immediately:
+an external bioinformatics advisor, Harvard biomedical informatics, discussed across many prior
 sessions (funding landscape, QAI advisor, academic bench). principal correction:
-"You know which Dr. Gil. You didn't search our history well enough."
+"You know which the external advisor. You didn't search our history well enough."
 
 Rule: before ANY "who/which/what is X" question to the user, run
 `session_search` on the name AND grep user profile/memory. The lookup is

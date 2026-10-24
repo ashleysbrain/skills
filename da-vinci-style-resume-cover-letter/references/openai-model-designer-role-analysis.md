@@ -97,7 +97,7 @@ This enterprise experience demonstrates:
 
 ### Resume structure
 
-1. **Header:** Name, email (ashmarie.1013@gmail.com), phone (346-796-3778), LinkedIn (linkedin.com/in/ashmariewilliams), location (Houston, TX)
+1. **Header:** Name, email (<personal-email>), phone (346-796-3778), LinkedIn (linkedin.com/in/ashmariewilliams), location (Houston, TX)
 2. **Summary:** 2-3 sentences on multi-agent system architecture + research recognition
 3. **Experience:**
    - Divinity Science (2023 – Present): Multi-Agent System Architect

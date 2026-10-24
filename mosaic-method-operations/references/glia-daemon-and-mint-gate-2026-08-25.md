@@ -41,7 +41,7 @@ principal to rule.
 ## Innovator-watch pattern (T-260824-0650)
 Follow-set watcher composed into existing research-scan tick (medialab
 precedent) — zero new crons. Karpathy: blog RSS + GitHub events API.
-PRECISION DEFECT: `au:Gil` arXiv query matched any author named Gil —
+PRECISION DEFECT: `au:the advisor` arXiv query matched any author named the advisor —
 disable ambiguous-name sources until identity confirmed; purge wrong
 entries from events.jsonl rather than polluting the catalog. Tier sets
 attention priority only, never acceptance criteria.

@@ -190,7 +190,7 @@ the principal corrected us for spawning agents without filing talent requests th
 the principal runs both systems simultaneously. Any agent spawned through the operator agent must also be registered in OpenClaw's analytics DB and AGENT-ANALYTICS.md. Any directive given to OpenClaw must be read by the operator agent (via HOT.md). Any process built in one system must sync to the other. "I need you both working simultaneously with you being my lead of the entire AI fleet."
 
 ### 15. Verify status from PRIMARY SOURCES, not cached docs
-HOT.md and memory files go stale. the principal said "check my email you have full access" when we reported outdated consent status. Use `gog gmail search '<query>' -p -a principal.williams@divinityscience.com` to check email for ground truth. HOT.md showed 2/13 consent signed but email showed 4/13. Always verify before reporting.
+HOT.md and memory files go stale. the principal said "check my email you have full access" when we reported outdated consent status. Use `gog gmail search '<query>' -p -a <org-email>` to check email for ground truth. HOT.md showed 2/13 consent signed but email showed 4/13. Always verify before reporting.
 
 ### 16. Strategic plan synthesis requires panel vote format
 When synthesizing multiple reviews into a master plan, the principal expects a formal executive panel vote table with all agents voting YES/NO/AMEND on each key decision, followed by a phased roadmap with specific deliverables per agent owner, then Week 1 day-by-day action plan, budget, success metrics dashboard (ADHD-friendly traffic lights), risk register, and the King's role definition.

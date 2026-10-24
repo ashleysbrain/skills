@@ -12,7 +12,7 @@ cohort telemetry.
 Divinity Science, solo principal 100% owner, physics-informed health metrics lab.
 Assets: 6+1 physics scoring engines (internally validated), 8D360 health
 instrument (needs validation cohort), VERITAS pipeline. Bench: Dr. Anantua
-(EHT astrophysicist, willing physics reviewer), Dr. Alterovitz (Harvard
+(EHT astrophysicist, willing physics reviewer), Dr. the external advisor (Harvard
 biomedical informatics, convertible advisor, NIH door). Sister-lab: Gilchrist
 Research (AI+cyber, handshake→NDA/LOI in progress). EXCLUDED: the OS OS.
 First raise $323–500K grants-only. #1 credibility asset = 8D360 validation
@@ -49,7 +49,7 @@ masking. **Approach:** GO/NO-GO gates at engine lock (Mo 6) and cohort
 enrollment threshold (Mo 8).
 
 **Researchers:** PD/PI = principal (instrument architect). Key personnel: Dr.
-Anantua (physics review of engine derivations), Dr. Alterovitz (validation
+Anantua (physics review of engine derivations), Dr. the external advisor (validation
 design). Subaward: Gilchrist Research — VERITAS pipeline hardening, cohort
 data security, ring-topology endpoint coordination.
 

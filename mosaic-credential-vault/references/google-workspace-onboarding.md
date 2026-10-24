@@ -9,7 +9,7 @@ resumes from truth, not hope.
 principal: "connect mosaic os to my google workspace... hook it up once and for it
 to be like google is with different company systems... use your google
 credentials to log in." Clarified mid-session: DS tenant
-(principal.williams@divinityscience.com) drives B2B organisms (GGLive);
+(<org-email>) drives B2B organisms (GGLive);
 sovereign-user organisms get separate tenant walls.
 
 ## Credential census results (all probed live)
@@ -18,9 +18,9 @@ sovereign-user organisms get separate tenant walls.
 |---|---|---|
 | `<agent-home>/google_token.json` | absent | the operator agent never minted Workspace token |
 | `~/.config/gws/client_secret.json` | present but INVALID (missing project_id, auth_uri, token_uri, auth_provider_x509_cert_url) | gws blocked at config parse |
-| `~/.sibling-agent/sibling-agent.json` auth.profiles | `google-gemini-cli:goddessdivinity888@gmail.com` — Gemini model OAuth, gmail identity | NOT Workspace; does not transfer |
+| `~/.sibling-agent/sibling-agent.json` auth.profiles | `google-gemini-cli:<personal-email>` — Gemini model OAuth, gmail identity | NOT Workspace; does not transfer |
 | `~/.sibling-agent/credentials/` | only whatsapp files | no google |
-| `gcloud auth list` | principal.williams@divinityscience.com, project sibling-agent-ds-063963 (session expired for describe) | tenant identity confirmed |
+| `gcloud auth list` | <org-email>, project sibling-agent-ds-063963 (session expired for describe) | tenant identity confirmed |
 | OAuth client | `683351052141-6uapev...apps.googleusercontent.com`, Desktop type | reusable |
 
 ## What was BUILT (verified)
@@ -79,7 +79,7 @@ endpoints only need client_id/secret. Missing fields surfaced one at a time:
 ## Pre-diagnosed mint failures
 
 - `Error 403: access_denied` → client in Testing mode; add
-  principal.williams@divinityscience.com at
+  <org-email> at
   https://console.cloud.google.com/auth/audience
 - Account picker offers gmail identity → must pick divinityscience.com
   (tenant identity).
