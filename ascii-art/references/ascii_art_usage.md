@@ -1,0 +1,1 @@
+Lesson: Use ASCII art for simple, text-based diagrams when visual tools are not available, ensuring clarity and readability.

@@ -1,0 +1,5 @@
+{
+  "date": "YYYY-MM-DD",
+  "twc": XX.X,
+  "note": "Baseline TWC value for drift detection - auto-generated from verified correct score"
+}

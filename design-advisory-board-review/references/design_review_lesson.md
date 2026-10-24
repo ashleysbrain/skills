@@ -1,0 +1,1 @@
+Lesson: When revising documents or PDFs, run the design advisory board review to ensure compliance with Da Vinci design philosophy, visual harmony, and branding guidelines before finalizing.

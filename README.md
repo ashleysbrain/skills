@@ -1,6 +1,6 @@
 # Agent Skills — Real Operating Disciplines
 
-**Skills from a real agent-operated stack.** These are the working disciplines of an AI organism that runs 24/7: 127 specialist engines, five operating harnesses, a law-enforced task ledger, and a principal with ADHD who gets answers, not process narration.
+**433 skills from a real agent-operated stack.** These are the working disciplines of an AI organism that runs 24/7: 127 specialist engines across every organ system, five operating harnesses, a law-enforced task ledger, and a principal with ADHD who gets answers, not process narration.
 
 Sanitized for public release: names, paths, and ports genericized. The methodology is unchanged, because the methodology is the point.
 
@@ -19,15 +19,15 @@ Each skill is a `SKILL.md` — a short, imperative operating discipline an agent
 | `law-enforcement-gates` | Turn "always/never" rules into mechanical gates that block violations |
 | `temporal-verification` | Read the live clock before ANY temporal claim; no "this morning" from memory |
 | `ai-tell-removal-gate` | Strip AI telltales (em dashes, "reaching out", hedging) from delivered prose |
-| `ceo-input-metabolism` | Turn a flood of links/orders/verdicts into a metabolized queue |
+| `principal-input-metabolism` | Turn a flood of links/orders/verdicts into a metabolized queue |
 | `never-invent-plans` | Anti-hallucination: block agents from inventing plans instead of reading state |
 | `baseline-first-surgical-precision` | Measure baseline before editing; verify deltas, not vibes |
 | `execution-over-documentation` | When docs and execution compete, execute — document after, from evidence |
 | `surgical-code-patching` | Numbered patches, unique-match edits, no drive-by refactors |
 
-### Craft skills (broad utility)
+### Everything else
 
-`codebase-inspection` · `architectural-pattern-extraction` · `grounded-citations` · `domain-intel` · `polymarket` · `document-to-action-items` · `meeting-action-items` · `weekly-review-planning` · `product-price-monitor` · `saved-thread-resume-protocol` · `live-sqlite-audit` · `offsite-encrypted-backup` · `mcporter` · `phone-dark-cockpit-patterns` · `telegram-artifact-delivery` · `adversarial-strategy-stress-testing` · `openresearch` · `agent-task-protocol-enforcement` · `notion-integration-connectivity` · `arxiv-paper-production`
+421 more across research ops, document production, organism operations, data pipelines, MLOps, design systems, health-scoring infrastructure, and everyday productivity — every discipline the stack actually runs on, from `arxiv-paper-production` to `weekly-review-planning`.
 
 ## Install
 

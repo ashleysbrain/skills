@@ -1,0 +1,1 @@
+Lesson: Refer to popular web designs (e.g., Stripe, Linear, Vercel) for inspiration on clean, modern, and functional layout when designing PDFs or web-based documentation.

@@ -1,0 +1,1 @@
+Lesson: When creating architecture diagrams (e.g., fleet maps, organism architecture), follow dark-themed SVG conventions and ensure clarity, proper labeling, and alignment with Da Vinci design principles.
