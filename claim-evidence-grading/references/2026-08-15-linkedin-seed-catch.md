@@ -15,7 +15,7 @@ A LinkedIn writing program was founded for the principal. the specialist engine 
 | 6 | "We blocked our own writing engine from citing papers it never read" | Code live at pipeline_api.py L292; runs in DB completed with the quality-issues status same day | A |
 | 7 | "Building a lab with ADHD: the OS that made it possible" | Personal claim; no published data; agent-written first-person | C |
 | 8 | "Why wellness needs eight dimensions" | fleet_twc_engine.py, 701 lines, deterministic | A |
-| 9 | "We recruited an academic bench before a product" | Anantua stated willingness; Alterovitz a prospect; nothing signed | C (willing-as-recruited) |
+| 9 | "We recruited an academic bench before a product" | Anantua stated willingness; the external advisor a prospect; nothing signed | C (willing-as-recruited) |
 | 10 | "What would change my mind" (series) | Series never started; no installment #1 | C |
 
 Result: 4 A / 3 B / 3 C. The corrected backbone with grades is at `/<workspace>`.

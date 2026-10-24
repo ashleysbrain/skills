@@ -57,9 +57,9 @@ sendmail -t < /tmp/email_with_headers.txt
 
 **Template:**
 ```
-From: principal.williams@divinityscience.com
+From: <org-email>
 To: recipient@domain.com
-CC: principal.williams@divinityscience.com
+CC: <org-email>
 Subject: [AGENT NAME] — [Purpose]
 
 [Email body]

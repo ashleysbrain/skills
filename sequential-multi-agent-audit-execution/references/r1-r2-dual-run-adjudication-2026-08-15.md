@@ -24,7 +24,7 @@ experiment. Companion to the "R1/R2 Dual-Run Adjudication" section in SKILL.md.
 |---|---|---|---|
 | Instrument #1 | NIH SBIR Phase I | NIH SBIR Phase I | AGREED — locked |
 | Grants-first sequencing | yes | yes | AGREED — locked |
-| Alterovitz = NIH door | yes | yes | AGREED — locked |
+| the external advisor = NIH door | yes | yes | AGREED — locked |
 | #1 credibility asset | federal award | validation cohort paper | compatible — merged |
 | Hub vehicle | SPV under parent | subsidiary LLC ("SPV overkill") | ADJUDICATED → LLC |
 | First-raise range | $750K–1.5M | $323K–500K | ADJUDICATED → smaller |

@@ -38,7 +38,7 @@ Evidence pack built from template `templates/strategy-panel-evidence-pack.md`.
    clarify BEFORE seat 1, then locked into the pack. Seats never re-ask the
    principal; they flag UNVERIFIED instead.
 6. **Convergence checks validate the chain:** Ramanujam's negotiation floor
-   ($7.5K) independently converged with Gil's economic floor — cited by both
+   ($7.5K) independently converged with the advisor's economic floor — cited by both
    as "convergence, not coincidence". When two seats' independent math meets,
    bank it as a load-bearing number.
 
@@ -64,5 +64,5 @@ Evidence pack built from template `templates/strategy-panel-evidence-pack.md`.
   strategy gap; 3 touches/day before any build work; B2C killed 30d.
 - Ramanujam: price card list $12K / partner $9.5K / floor $7.5K; trades not
   gifts; only permitted in-call sentence pre-decided.
-- Gil: 2 pilots/mo hard cap (principal hours bind, not fleet); $28–40K by day 90 =
+- the advisor: 2 pilots/mo hard cap (principal hours bind, not fleet); $28–40K by day 90 =
   bridge to SBIR window; weekly metric = cash collected; newsletter killed.

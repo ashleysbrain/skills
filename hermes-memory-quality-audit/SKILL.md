@@ -107,7 +107,7 @@ wrong name poisons every downstream interaction.
 | Git/email credentials | These are **NOT** identity evidence. Admin accounts, service accounts, and gcloud credentials use whatever email was configured — they do not reveal the user's name. |
 
 **Credential inference poisoning** (observed 2026-03-24 through 2026-07-10):
-A past session saw `principal.williams@divinityscience.com` in a gcloud credential
+A past session saw `<org-email>` in a gcloud credential
 path and wrote "the principal Wilson" into `USER.md` as the user's name. The real name
 is **Aisha** (evidenced by `~/your-workspace/`, `AISHA-MD` health agent, and
 multiple explicit corrections across sessions). The wrong name persisted for

@@ -22,7 +22,7 @@ innovator raises attention, not acceptance.
 - REMOVE/DECAY: no relevant output for N cycles -> demote tier -> remove;
   quarterly review sweeps the whole set.
 - First entries: Andrej Karpathy (PRIMARY, spelled exactly so; principal-accent
-  transcripts may mangle the name — normalize), Dr. Gil (SECONDARY).
+  transcripts may mangle the name — normalize), the external advisor (SECONDARY).
 
 ## Intake pipeline
 Each new item -> evidence-tier grade -> relevance match against active build

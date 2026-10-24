@@ -64,7 +64,7 @@ admin_id = admin.id  # found or created at the start
    ```bash
    DATABASE_URL="postgresql+psycopg2://user:pass@host:5432/db" \
    WORKSPACE="/path/to/workspace" \
-   ADMIN_EMAIL="principal@divinity.science" \
+   ADMIN_EMAIL="<org-email>" \
    python3 migrate_sqlite_to_pg.py
    ```
 

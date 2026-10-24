@@ -63,7 +63,7 @@ The scientist is not just an inspiration — their specific discovery/breakthrou
 | CRO | Elad Gil, Aaron Ross, Jill Rowley, Mark Roberge, Dan Steinman, Madhavan Ramanujam | SOLAR FLARE | DS-LED-REV-L6-C4-P6-T5-001 |
 | CMO | April Dunford, Mark Hyman, Dave Asprey, Steve Krug, Sahil Bloom | SUPERNOVA | DS-LED-MKT-L6-C4-P2-T5-001 |
 | CSO | (Elite Conclave) | EVENT HORIZON | DS-LED-STR-L6-C4-P1-T5-001 |
-| **Research** | **Gil Alterovitz, Stuart Hameroff, Vivek Murthy, Einstein, Feynman, Damasio, Ostrom, Kahneman, Margulis, Wiener** | **DARK MATTER** | **RES-DSP-COR-L5-C3-P3-T4-001** |
+| **Research** | **an external bioinformatics advisor, Stuart Hameroff, Vivek Murthy, Einstein, Feynman, Damasio, Ostrom, Kahneman, Margulis, Wiener** | **DARK MATTER** | **RES-DSP-COR-L5-C3-P3-T4-001** |
 
 ### Layer 2: the specialist engine (Execute)
 
@@ -114,7 +114,7 @@ Agents execute → report results → lattice rebalances
 
 | Advisor | 8D Specialty | Domain |
 |---------|-------------|--------|
-| Dr. Gil Alterovitz | INTELLECTUAL (AI) + VOCATIONAL | AI Research / Precision Medicine |
+| Dr. an external bioinformatics advisor | INTELLECTUAL (AI) + VOCATIONAL | AI Research / Precision Medicine |
 | Dr. Stuart Hameroff | PHYSICAL (quantum bio) + SPIRITUAL | Consciousness Physics |
 | Dr. Vivek Murthy (Surgeon General) | SOCIAL + EMOTIONAL + PHYSICAL | Public Health / Connection |
 | Albert Einstein | PHYSICAL + INTELLECTUAL | Theoretical Physics |
