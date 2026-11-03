@@ -67,7 +67,7 @@ losses = torch.relu(1 - self.beta * logits)
 ```
 
 **Characteristics**:
-- Non-smooth (has intimacy at logits = 1/β)
+- Non-smooth (has a kink at logits = 1/β)
 - Margin-based (SVM-style)
 - Can lead to sparser solutions
 - Less commonly used
