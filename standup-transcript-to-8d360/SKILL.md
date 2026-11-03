@@ -20,7 +20,7 @@ When ANY new source of evidence lands for a day that's already been scored — a
 **Required action:**
 1. Re-read ALL source materials for that day (transcripts, vision docs, existing scores, audio if available)
 2. Re-score every dimension (PSY, PHY, ENV, SOC, SPI, INT, VOC, FIN)
-3. Re-score every sub-component (nutrition, sexual health, intimacy, EF COMPASS)
+3. Re-score every sub-component (nutrition, sexual health, intimacy health, EF COMPASS)
 4. Re-compute TWC with the new numbers
 5. UPSERT the daily_scorecard row (update by date)
 6. UPSERT the twc_history row
@@ -180,7 +180,7 @@ When the evidence is a same-day standup voice note and later-day evidence has *n
 2. Create a *preliminary* scorecard for the current date instead of waiting for nutrition or sexual-health completion.
 3. Save both a machine-readable raw artifact and a human-readable preliminary markdown file in `health-private/daily/`.
 4. Update the lightweight daily overview file so the top-line TWC matches the preliminary standup score.
-5. Keep nutrition, sexual health, intimacy, and EF deltas explicitly pending unless the voice note actually contains those signals.
+5. Keep nutrition, sexual health, intimacy health, and EF deltas explicitly pending unless the voice note actually contains those signals.
 6. Mark the output as provisional/preliminary so later evidence can trigger a full re-score without ambiguity.
 7. Preserve the patient-0 rule: algorithm/company/scoring-method work counts as real activity, and mission-aligned positive-health work can lift PSY/SPI more than a generic productivity day.
 8. If lunch, dinner, hydration, intimacy, or follow-up details arrive later the same day, treat the earlier result as provisional and rescore the full day.

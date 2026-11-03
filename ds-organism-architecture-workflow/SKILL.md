@@ -246,7 +246,7 @@ After any change to organism architecture or engine systems:
 
 ## Daughter-Organism Founding Documents
 
-When writing founding documents (values, philosophy, mission, about, company identity) for a DS daughter organism or subsidiary brand (Divinity Health, Constellation, the operator agent family, 8D360AI, Qubit, partner brand, future forks), the document is a **genome expression document**, not free creative writing. It inherits binding chromosomes from BRAND-DNA and expresses them through the daughter's phenotype. Read the actual ecosystem sources (genome, VERITAS scope audits, Research Integrity Protocol, SOUL files, company context summary) before drafting — do not write from memory. Full source-grounding sequence, five-section structure, hard rules, and pitfalls: `references/daughter-organism-founding-documents.md`.
+When writing founding documents (values, philosophy, mission, about, company identity) for a DS daughter organism or subsidiary brand (Divinity Health, Constellation, the operator agent family, 8D360AI, Qubit, partner brands, future forks), the document is a **genome expression document**, not free creative writing. It inherits binding chromosomes from BRAND-DNA and expresses them through the daughter's phenotype. Read the actual ecosystem sources (genome, VERITAS scope audits, Research Integrity Protocol, SOUL files, company context summary) before drafting — do not write from memory. Full source-grounding sequence, five-section structure, hard rules, and pitfalls: `references/daughter-organism-founding-documents.md`.
 
 ## Parent-Level Company Culture and Operating Principles
 

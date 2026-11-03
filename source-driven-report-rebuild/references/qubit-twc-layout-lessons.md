@@ -7,7 +7,7 @@ Use this as a quick regression checklist when rebuilding the 8D Qubit AI Agent T
 - If the user asks for a specific subset of algorithms, keep the deck scoped to that subset.
 - For this rebuild, the user wanted the ADHD executive-function nutrition layer included.
 - Separate ADHD and nutrition into distinct subcategories under the most important proprietary TWC layer instead of blending them together.
-- Do **not** include sexual health / intimacy / Eros / Kinsey content unless explicitly requested.
+- Do **not** include sexual health / intimacy content unless explicitly requested.
 - Keep the presentation pattern consistent and readable, especially for dense technical decks.
 - When the doc includes multiple calculation families, separate the equations into distinct subsections/cards immediately after the core metric rather than grouping them into one block.
 - Add an explicit status indicator to each calculation card when the user asks whether the calculation is live or still in development.

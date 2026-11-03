@@ -46,7 +46,7 @@ This means model distribution queries against the agents table will only cover ~
 | Empire | 11 |
 | Divinity Science (alt) | 7 |
 | the principal Personal | 3 |
-| partner brand | 1 |
+| partner-brand | 1 |
 
 ### Fleet Health: Clean
 - 0 errors (24h), 0 rate limits, 0 timeouts

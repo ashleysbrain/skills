@@ -1,6 +1,6 @@
 # Daughter-organism founding documents (values, philosophy, identity)
 
-Use this reference when writing founding documents (values, philosophy, mission, about, company identity) for a Divinity Science daughter organism or subsidiary brand. Daughters include Divinity Health, Constellation, the the operator agent organism family, 8D360AI, Qubit, partner brand, and future forks.
+Use this reference when writing founding documents (values, philosophy, mission, about, company identity) for a Divinity Science daughter organism or subsidiary brand. Daughters include Divinity Health, Constellation, the operator agent organism family, 8D360AI, Qubit, partner brands, and future forks.
 
 ## Why this is a distinct pattern
 

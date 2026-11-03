@@ -9,7 +9,7 @@ Use this reference when writing the PARENT company's culture, operating principl
 - "Translate the physics-informed methodology into company operating principles"
 - Any ask for a parent-level identity/operating document (not a daughter's founding values)
 
-If the ask mentions a specific daughter brand (Divinity Health, the operator agent family, Qubit, partner brand), use `references/daughter-organism-founding-documents.md` instead.
+If the ask mentions a specific daughter brand (Divinity Health, the operator agent family, Qubit, partner brands), use `references/daughter-organism-founding-documents.md` instead.
 
 ## Required source-grounding sequence
 

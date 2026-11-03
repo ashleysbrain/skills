@@ -150,7 +150,7 @@ This serves three simultaneous purposes:
 ### VERITAS Infrastructure (pre-existing)
 - **VERITAS Audit Panel:** 4 agents on non-Anthropic models
   - VERITAS-MATH (Gemini), VERITAS-PHYS (Gemini), VERITAS-STAT (Qwen), VERITAS-ETHICS (DeepSeek)
-- **14 specialist agents** across 4 panels: 8D Core, Intimacy, EF COMPASS, VERITAS Audit
+- **14 specialist agents** across 4 panels: 8D Core, Intimacy Health, EF COMPASS, VERITAS Audit
 - **5-stage review pipeline:** Evidence Level Gate → Research Agent → Panel Review → Regulatory → QA
 - **250-agent panel capacity** (scaled up after ICBN v5 failure)
 - **Review database:** review_panels + panel_reviewers tables in agents.db

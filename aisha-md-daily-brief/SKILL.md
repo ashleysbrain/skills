@@ -126,8 +126,8 @@ Required structure (in order):
 5. **🥗 NUTRITION** — composite score and tier label in heading, sub-score table (Protein/Meal Frequency/Meal Regularity/Hydration/Med-Food Compatibility/Micronutrients/Caloric Balance/Composite/Modifier), AG1 confirmation note
 6. **💋 SEXUAL HEALTH** — composite + label in heading, sub-score table (Satisfaction/Communication/Safety/Body Image/Desire Alignment/Emotional Connection/Composite/Label/Modifier), event log if applicable
 7. **🧠 EF COMPASS** — overall + evidence count in heading, table with Domain/Current/Natural/Modifier/Source columns, AISHA-MD observation paragraph
-8. **🔄 INTIMACY** — section even if NULL (state "no intimacy data, NULL by design")
-9. **🏆 [TODAY'S/YESTERDAY'S] WINS** — organized by life-area subheaders with 8D tags: Boundary Work / partner brand / Business / Fleet / Infrastructure / Personal / Relationship / Wellness / Health / Self-Awareness / etc. (use what fits the day)
+8. **INTIMACY HEALTH** — section even if NULL (state "no intimacy data, NULL by design")
+9. **🏆 [TODAY'S/YESTERDAY'S] WINS** — organized by life-area subheaders with 8D tags: Boundary Work / Partner Brand / Business / Fleet / Infrastructure / Personal / Relationship / Wellness / Health / Self-Awareness / etc. (use what fits the day)
 10. **📝 WELLNESS NOTE (AISHA-MD)** — narrative paragraph in the principal's voice, "one gentle observation (not a nudge)" line at the end
 11. **🔁 WHAT'S NEXT** — bullet list of next steps and pending data
 12. **Footer** — italic line: `*Sources merged: ...*` + italic line: `*AISHA-MD applied the no-shame tone rule throughout: no "declining," no "concerning," no "flagged," no cascade-blame...*`

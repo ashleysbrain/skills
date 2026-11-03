@@ -265,7 +265,7 @@ Direct CLI invocation is allowed only when fixing the engine, adding new evidenc
 
 ## Extending the Engine (New Evidence Types)
 
-When a new category of evidence appears that isn't covered (e.g. workout, creative output, intimacy scene, therapy session), do NOT hand-patch the math. Instead:
+When a new category of evidence appears that isn't covered (e.g. workout, creative output, intimacy session, therapy session), do NOT hand-patch the math. Instead:
 
 1. Add a new `rules_for_<category>(signals)` function to `rescore_engine.py`
 2. Register it in `EVIDENCE_DISPATCH`
